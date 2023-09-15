@@ -1,0 +1,1 @@
+This is a project from the Odin Project to create a sketchpad/Etch-a-sketch interactive UI using DOM manipulation skills that have been learned from the Odin Project curriculum, rather than directly editing the HTML file. 
