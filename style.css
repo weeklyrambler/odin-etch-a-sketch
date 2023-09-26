@@ -1,0 +1,13 @@
+
+
+#container {
+    width: 960px; 
+    position: relative; 
+    border: 1px solid black; 
+}
+
+.div {
+    width: 50%; 
+    position: absolute; 
+    border: 1px solid black; 
+}
